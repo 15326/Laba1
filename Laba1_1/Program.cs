@@ -12,11 +12,7 @@ namespace Laba1_1
         /// <param name="args"></param>
         static void Main(string[] args)
         {
-            gun ObjGun = new gun();
-            Console.WriteLine(ObjGun);
-            gun oobGun = new gun("M16",7.62,1500);
-            Console.WriteLine(oobGun);
-            Console.ReadKey();
+           
         }
     }
 }
