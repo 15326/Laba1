@@ -24,7 +24,7 @@ namespace Laba1_1
 
         }
         /// <summary>
-        /// Инициализирует новый экземпляр класса Tovar значением 
+        /// Инициализирует новый экземпляр класса Gun значением 
         /// </summary>
         /// <param name="name">Имя</param>
         /// <param name="kol">Колибр</param>
